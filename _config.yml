@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email:
   facebook:
-  github: pianfan
+  github: 
   rss: welcome!
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024-2025 Pianfan
+footer-text: Copyright (c) 2024-2025 Jiao-Mou
 
-url: https://pianfan.github.io
+url: https://Jiao-Mou.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
